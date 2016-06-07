@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:10:35.343147
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:39
 #+TITLE: 佛為阿支羅迦葉自化作苦經
 #+PROPERTY: CBETA_ID T14n0499
 #+PROPERTY: ID KR6i0129
